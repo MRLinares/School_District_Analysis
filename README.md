@@ -74,7 +74,9 @@ The above metrics remain unaffected after new analysis.
 # Summary
 
 
-&nbsp;&nbsp;&nbsp;  After performing the new analysis, it became evident how drastic the effect would be on the data had the redacted ninth grade scores remained in my calculations.  Leaving the scores in would be the equivalent of giving the entire grade zeroes for math and reading which would severly drop the percentages for Thomas High School in all of my measurements so I simply ran all the code with the informtion entirely removed.
+&nbsp;&nbsp;&nbsp;   After performing the new analysis, it became evident how drastic the effect would be on the data had the redacted ninth grade scores remained in my calculations.  Leaving the scores in would be the equivalent of giving the entire grade zeroes for math and reading which would severly drop the percentages for Thomas High School in all of my measurements so I simply ran all the code with the informtion entirely removed to give a better picture of the true data.
+
+&nbsp;&nbsp;&nbsp;   The first thing I noticed was how little the data changed from the initial analysis once I corrected for the ninth grade data.  While the grade data was removed, the student count was not, so this showed that the "Per Student Budget" didn't change.  The academic dishonesty essentially wasted resources that could have been allocated to other grades and possibly boost their performance.
 
 
 : Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
