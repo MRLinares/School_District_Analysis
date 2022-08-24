@@ -78,7 +78,9 @@ The above metrics remain unaffected after new analysis.
 
 &nbsp;&nbsp;&nbsp;   The first thing I noticed was how little the data changed from the initial analysis once I corrected for the ninth grade data.  While the grade data was removed, the student count was not, so this showed that the "Per Student Budget" didn't change.  The academic dishonesty essentially wasted resources that could have been allocated to other grades and possibly boost their performance.
 
-&nbsp;&nbsp;&nbsp;   Another thing I noted was a marginal drop in all averages and percentages.  In performance comparisons, the margins are so narrow that Thomas High School could possibly fall out of the top 5 or at least drop a level had the academic dishonesty neever occurred. 
+&nbsp;&nbsp;&nbsp;   Another thing I noted was a marginal drop in all averages and percentages.  In performance comparisons, the margins are so narrow that Thomas High School could possibly fall out of the top 5 or at least drop a level had the academic dishonesty neever occurred.
+
+&nbsp;&nbsp;&nbsp;   The District Summary shows a marginal drop, but it is a view of nearly 40,000 students.  The larger the population size, the more any marginal differences actually point to change, meaning the academic dishonesty had an impact on overall district performance.
 
 : Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
