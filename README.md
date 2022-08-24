@@ -4,11 +4,27 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  After an initial analysis, it was discovered that academic dishonesty was evident in the ninth grade of Thomas High School.  A new analysis will consist of removing those datapoints and running the analysis with the new information.
 
+### Data Needed:
+
+* Complete student count with respective identifiers and scores.
+* Complete list of schools with respective budgets, total student population size, and school type.
+* Total number of students who passed math.
+* Total number of students who passed reading.
+* Total number of students who passed both, math and reading.
+* Totals for passing for each school.
+* Overall Total Budget and totals for each individual school.
+* Overall average scores for reading and math and averages for each individual school.
+* Overall passing percentages for reading, math, and both (reading and math)
+* Passing percentages for each individual school.
+* Per Capita spending for each school.
+* Descriptive statistics for spending to analyze based on spending ranges.
+
+
 
 # RUBRIC
 
 
-Overview of the school district analysis: Explain the purpose of this analysis.
+O
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
