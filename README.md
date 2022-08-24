@@ -20,6 +20,11 @@
 * Descriptive statistics for spending to analyze based on spending ranges.
 
 
+### Resources
+Software: Python, Pandas, Anaconda, and Jupyter Notebook.\
+Data: schools_complete.csv, students_complete.csv
+
+
 ## Results
 
 &nbsp;&nbsp;&nbsp;  After performing the analysis, some changes were noted (Initial analysis images are on top or to the left):
@@ -75,6 +80,4 @@ Summary: Summarize four changes in the updated school district analysis after re
 # END RUBRIC
 
 
-## Resources
-Software: Python, Pandas, Anaconda, and Jupyter Notebook.\
-Data: schools_complete.csv, students_complete.csv
+
