@@ -20,8 +20,29 @@
 * Descriptive statistics for spending to analyze based on spending ranges.
 
 
+## Results
 
-# RUBRIC
+&nbsp;&nbsp;&nbsp;  After performing the analysis, some changes were noted (Initial analysis images are on top):
+
+![district_summary_pre](https://user-images.githubusercontent.com/108758105/186308885-f46765db-25fe-4ffd-8cc4-563e9181274a.png) ![district_summary_post](https://user-images.githubusercontent.com/108758105/186308977-c6293593-046c-470d-8903-9eb8d96c5fee.png)
+
+After the new analysis, all scores and percentages, as it pertains to the District Summary, save "Avergage Reading Score", dropped marginally.
+
+
+![school_summary_pre](https://user-images.githubusercontent.com/108758105/186309338-bf36d82d-a1a6-4d1a-9779-aa7fa75dd2f7.png) ![school_summary_post](https://user-images.githubusercontent.com/108758105/186309369-1d23675f-3569-4e41-9ce6-357e58ef94f5.png)
+
+According to the School Summary, the Average Math and Reading Score show marginal changes, but there is a drastic drop in passing percentages by roughly 25 points for each category.
+
+As it relates to performance relative to the other schools, including the ninth grade redacted scores places Thomas HS at the bottom level.
+
+
+![school_summary_pre](https://user-images.githubusercontent.com/108758105/186309338-bf36d82d-a1a6-4d1a-9779-aa7fa75dd2f7.png) ![per_school_summary](https://user-images.githubusercontent.com/108758105/186311657-339f3fd8-16d2-48e3-99c1-360c30429f5a.png) 
+
+After running the analysis removing the ninth grade data for Thomas High School, the numbers regress near their initial analysis figures.
+
+
+
+# RUBRICsch
 
 
 O
