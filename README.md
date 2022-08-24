@@ -71,16 +71,16 @@ Scores based on school type:
 The above metrics remain unaffected after new analysis.
 
 
+# Summary
 
 
-# RUBRICsch
+&nbsp;&nbsp;&nbsp;  After performing the new analysis, it became evident how drastic the effect would be on the data had the redacted ninth grade scores remained in my calculations.  Leaving the scores in would be the equivalent of giving the entire grade zeroes for math and reading which would severly drop the percentages for Thomas High School in all of my measurements so I simply ran all the code with the informtion entirely removed.
+
+
+: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
 
-Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-# END RUBRIC
 
 
 
