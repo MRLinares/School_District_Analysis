@@ -22,7 +22,7 @@
 
 ## Results
 
-&nbsp;&nbsp;&nbsp;  After performing the analysis, some changes were noted (Initial analysis images are on top):
+&nbsp;&nbsp;&nbsp;  After performing the analysis, some changes were noted (Initial analysis images are on top or to the left):
 
 ![district_summary_pre](https://user-images.githubusercontent.com/108758105/186308885-f46765db-25fe-4ffd-8cc4-563e9181274a.png) ![district_summary_post](https://user-images.githubusercontent.com/108758105/186308977-c6293593-046c-470d-8903-9eb8d96c5fee.png)
 
