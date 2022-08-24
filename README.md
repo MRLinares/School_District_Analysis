@@ -48,24 +48,25 @@ After running the analysis removing the ninth grade data for Thomas High School,
 
 ![Mathbygrade_pre](https://user-images.githubusercontent.com/108758105/186323626-26e4aa37-45e6-46cc-9dbf-5b7f2ab28c93.png) ![Mathbygrade_post](https://user-images.githubusercontent.com/108758105/186323652-ba428d9f-b769-40d0-8c8b-9327e6f8bc72.png)
 
-Math scores by grade
-
 
 ![Readbygrade_pre](https://user-images.githubusercontent.com/108758105/186323738-a864645b-1b15-4607-87ca-5712734cc794.png) ![Readbygrade_post](https://user-images.githubusercontent.com/108758105/186323793-cbf72524-00be-407a-ba9b-377961395aa7.png)
 
-Reading scores by grade
+Both Math and Reading scores by grade reflect that Thomas High School ninth grade scores are no longer being evaluated via the value "nan" which represents the phrase "not a number".
 
 ![scores_spend_pre](https://user-images.githubusercontent.com/108758105/186323999-ce2f8560-4482-4ea2-a48f-a370780470bb.png) ![scores_spend_post](https://user-images.githubusercontent.com/108758105/186324042-3727fe0c-9bab-4add-adbd-5ed5313b6fc2.png)
 
 Scores based on spending
 
-![scores_size_pre](https://user-images.githubusercontent.com/108758105/186324152-070c4a10-a658-45be-ba8c-f36c34949de1.png) ![scores_spend_post](https://user-images.githubusercontent.com/108758105/186324176-01571840-84f1-4f93-95cc-62f178f2806b.png)
+![scores_size_pre](https://user-images.githubusercontent.com/108758105/186324152-070c4a10-a658-45be-ba8c-f36c34949de1.png) ![scores_size_post](https://user-images.githubusercontent.com/108758105/186325513-a0c2dbd1-64dd-4698-86a1-b4a02b74822f.png)
+ 
 
 Scores based on school size
 
-![scores_type_pre](https://user-images.githubusercontent.com/108758105/186324225-5b4dc280-0a51-4c33-9f96-a41740a9c84b.png) ![scores_spend_post](https://user-images.githubusercontent.com/108758105/186324245-61d59ae7-6dc5-4ae3-b00a-64ccbc8890be.png)
+![scores_type_pre](https://user-images.githubusercontent.com/108758105/186324225-5b4dc280-0a51-4c33-9f96-a41740a9c84b.png) ![scores_type_post](https://user-images.githubusercontent.com/108758105/186325551-6fdf37ae-1a95-4f3b-bcc9-78edf9bb3bdb.png)
 
 Scores based on school type
+
+The above metrics remain unaffected after new analysis.
 
 
 
