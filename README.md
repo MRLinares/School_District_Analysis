@@ -1,5 +1,9 @@
 # School District Analysis
 
+## Overview
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  After an initial analysis, it was discovered that academic dishonesty was evident in the ninth grade of Thomas High School.  A new analysis will consist of removing those datapoints and running the analysis with the new information.
+
 
 # RUBRIC
 
